@@ -25,7 +25,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class UIColors {
-    public static final int COLOR_DEFAULT = 0xFF4CAF50;
+    public static final int COLOR_DEFAULT = 0xFF7C4DFF;
 
     public static final int COLOR_TRANSPARENT = 0x00000000;
     public static final int COLOR_LIGHT_TRANSPARENT = 0xAAFFFFFF;

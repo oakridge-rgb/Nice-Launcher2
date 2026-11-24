@@ -12,9 +12,9 @@
     </style>
 
     <style name="AppTheme" parent="BaseTheme">
-        <item name="colorPrimary">@color/kiss_green</item>
-        <item name="colorPrimaryDark">@color/kiss_green_dark</item>
-        <item name="colorAccent">@color/kiss_green</item>
+        <item name="colorPrimary">@color/kiss_primary</item>
+        <item name="colorPrimaryDark">@color/kiss_primary_dark</item>
+        <item name="colorAccent">@color/kiss_blue</item>
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="appSelectableItemBackground">?android:attr/selectableItemBackgroundBorderless</item>
         <item name="textShadowRadius">0</item>
@@ -238,10 +238,10 @@
     <!-- colorPrimaryDark is always same color as colorPrimary in HSV color space where value was reduced by 15 -->
     <!-- kiss_icon_foreground is always same color as colorPrimary in HSV color space where saturation was reduced by 10 -->
     <style name="OverlayAccentDefault">
-        <item name="colorPrimary">@color/kiss_green</item>
-        <item name="colorPrimaryDark">@color/kiss_green_dark</item>
-        <item name="colorAccent">@color/kiss_green</item>
-        <item name="kiss_icon_foreground">#5daf61</item>
+        <item name="colorPrimary">@color/kiss_primary</item>
+        <item name="colorPrimaryDark">@color/kiss_primary_dark</item>
+        <item name="colorAccent">@color/kiss_blue</item>
+        <item name="kiss_icon_foreground">#5C6BE8</item>
         <item name="kiss_icon_background">@color/kiss_icon_background_neutral</item>
     </style>
 
