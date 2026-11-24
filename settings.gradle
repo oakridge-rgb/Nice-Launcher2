@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KISS"
+rootProject.name = "NiceLauncher"
 include ':app'

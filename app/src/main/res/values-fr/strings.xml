@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lanceur KISS</string>
+    <string name="app_name">Nice Launcher</string>
     <string name="activity_setting">Paramètres de KISS</string>
     <string name="ui_search_hint">Rechercher des applications, contacts, …</string>
     <string name="ui_item_search">Rechercher « %2$s » sur %1$s</string>

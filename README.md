@@ -1,6 +1,6 @@
-# KISS
+# Nice Launcher
 
-An Android launcher not spending time and memory on stuff you'd rather do.
+A purple/blue customized fork of [KISS Launcher](https://github.com/Neamar/KISS): same speed and simplicity, custom purple-blue theme and icon.
 
 Libre software, licensed [GPLv3+](https://github.com/Neamar/KISS/blob/master/LICENSE): use, see, [change](CONTRIBUTING.md) and share at will.
 
